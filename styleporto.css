@@ -1,0 +1,74 @@
+body {
+  min-height: 2000px;
+  color: #1e2c25;
+}
+.jumbotron {
+  padding-top: 240px;
+  background-color: #dad7cd;
+}
+.navbar {
+  color: #1e2c25;
+}
+.navbar-brand img {
+  margin-left: 70px;
+  margin-top: 0px;
+  align-content: center;
+}
+/* .navbar-nav {
+} */
+
+.nama {
+  margin: 25px 0px;
+  /* padding-left: 210px; */
+}
+.display {
+  color: #1e2c25;
+  font-weight: bolder;
+  font-family: Freight;
+  font-size: 80px;
+  line-height: 80px;
+  align-content: center;
+}
+/* .container img {
+  padding-left: 10px;
+} */
+.container row {
+  padding-right: 20x;
+}
+.jumbotron p {
+  font-family: Futura Md BT;
+  font-size: 18px;
+  align-items: center;
+  text-align: center;
+  margin: 40px;
+  color: #1e2c25;
+}
+.line1 {
+  margin-top: 160px;
+}
+#about {
+  background-color: #a3b18a;
+}
+#projects {
+  background-color: #dad7cd;
+  color: #1e2c25;
+}
+#contact {
+  background-color: #588157;
+  color: #1e2c25;
+}
+#contact button {
+  background-color: #1e2c25;
+  border-color: #1e2c25;
+  color: #a3b18a;
+  font-weight: bold;
+}
+footer,
+footer p,
+footer a {
+  color: #1e2c25;
+  background-color: #dad7cd;
+}
+footer a {
+  font-weight: bold;
+}
