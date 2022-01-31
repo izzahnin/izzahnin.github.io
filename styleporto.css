@@ -14,9 +14,6 @@ body {
   margin-top: 0px;
   align-content: center;
 }
-/* .navbar-nav {
-} */
-
 .nama {
   margin: 25px 0px;
   /* padding-left: 210px; */
@@ -29,9 +26,6 @@ body {
   line-height: 80px;
   align-content: center;
 }
-/* .container img {
-  padding-left: 10px;
-} */
 .container row {
   padding-right: 20x;
 }
@@ -71,4 +65,8 @@ footer a {
 }
 footer a {
   font-weight: bold;
+}
+
+section {
+  padding-top: 55px;
 }
